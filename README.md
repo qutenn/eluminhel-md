@@ -19,12 +19,12 @@
 <img src="">
 </div>
 <<p align="center">
-<img src="https://telegra.ph/file/cae1006f98fe34d344bd2.jpg" width="600" height="650"/>
+<img src="https://pbs.twimg.com/profile_images/1789698300511203328/wwiCyH_e.jpg
 </p>
 <p align="center">
 </p>
 </p>
-<h1 align="center"> DARK-MD-BUG (BETA)</h1/>
+<h1 align="center"> ELUMINHEL(BETA)</h1/>
   
 ## STEPS TO DEPLOY YOUR BOT
   
