@@ -1883,7 +1883,7 @@ case "bugmenu": case "warmenu": {
  ⭔ ⸎ ⸎
  ⭔ *_${weton} - ${week}, ${calender}_*
 
-   - 𖣂 Sc Private 𖤲 𝕾𝖕𝖎𝖉𝖊𝖗 𖤲
+   - 𖣂 Sc Private 𖤲 𝕰𝖑𝖚𝖒𝖎 𝖇𝖞 𝕹𝖍𝖊𝖑 𖤲
  ⭔ 名前   : ${pushname}
  ⭔ タグ   : @${m.sender.split('@')[0]}
  ⭔ 時間   : ${ucapanWaktu}
@@ -2047,7 +2047,7 @@ case "bugmenu": case "warmenu": {
       caption: itsmenu,
       gifPlayback: false,
       contextInfo:{externalAdReply:{
-    title: '⟠ 𝕮𝖆𝖑𝖑 𝕸𝖊 𝕾𝖕𝖎𝖉𝖊𝖗 々',
+    title: '⟠ 𝕮𝖆𝖑𝖑 𝕸𝖊 𝕰𝖑𝖚𝖒𝖎 𝖇𝖞 𝕹𝖍𝖊𝖑 々',
       body: `⸎ 𝖃𝖃𝕮 : ${m.pushName}\n🕑${ucapanWaktu}`, 
       showAdAttribution: false,
       thumbnail:nulll2,
