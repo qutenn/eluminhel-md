@@ -1,1 +1,7 @@
-
+{
+	"name": "▌│█║▌║▌║ eluminhel-md ║▌║▌║█│▌",
+	"description": "WhatsApp Bot Using Lib Baileys",
+	"repository": "https://github.com/qutenn/eluminhel-md",
+	"logo": "https://node-js-sample.herokuapp.com/node.png",
+	"keywords": ["multi-device"]
+}
